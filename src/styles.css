@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.link:hover {
+  cursor: pointer;
+  background-color: red;
+}
+.chatscroll::-webkit-scrollbar {
+  width: 20px;
+}

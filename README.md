@@ -1,2 +1,2 @@
-# Social-media-app
+# cbit-mini-porject
 Created with CodeSandbox

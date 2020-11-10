@@ -1,0 +1,39 @@
+.question {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  font-size: 20px;
+  border: none;
+  background-color: rgb(248, 248, 248);
+  box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
+  resize: none;
+  min-height: 200px;
+}
+.sumbit-btn {
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  margin: 4px;
+  color: white;
+  font-weight: bold;
+  background-color: green;
+  border-radius: 6px;
+  position: relative;
+  outline: none;
+  border: none;
+  top: 3px;
+  left: 35px;
+}
+.screenshot {
+  display: flex;
+  flex-direction: column;
+  width: 160px;
+  height: 60px;
+  position: relative;
+  left: 130px;
+  bottom: 60px;
+}
+
+.tscroll::-webkit-scrollbar {
+  display: none;
+}
