@@ -1,2 +1,3 @@
-# cbit-mini-porject
-Created with CodeSandbox
+#social-media-app
+ -> All in  one App
+ 
